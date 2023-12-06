@@ -1,0 +1,4 @@
+train: durhamlogopics/train/images
+val: durhamlogopics/valid/images
+nc: 1
+names: ['durham-college']
